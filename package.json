@@ -1,0 +1,22 @@
+{
+  "name": "mynovel",
+  "version": "1.0.0",
+  "description": "🎶 金庸小说介绍电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luyishuang/myNovel.git"
+  },
+  "author": "luyishuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luyishuang/myNovel/issues"
+  },
+  "homepage": "https://github.com/luyishuang/myNovel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
